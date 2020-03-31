@@ -4,8 +4,4 @@
 
 ## Progress
 
-You can view the webpage here.
-
-## To DO
-
-1. Fix the borders. Can anyone help me with this?
+You can view the webpage [here](https://nemesis-as.github.io/frontend-mentor-four-card/).
