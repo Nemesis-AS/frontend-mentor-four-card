@@ -92,6 +92,13 @@ a {
 	text-decoration: none;
 }
 
+hr {
+	margin: auto;
+	width: 95%;
+	color: #333;
+	size: 1px;
+}
+
 @media (max-width: 700px) {
 	.card-div {
 		flex-direction: column;
